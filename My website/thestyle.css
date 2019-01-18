@@ -1,0 +1,17 @@
+body{
+Background-color:Gray;
+}
+h1{
+text-align:center;
+color:Blue;
+}
+table, th, td{
+Border:1px;white;
+Padding:15px
+}
+th{
+background-color:Black;
+color:white;
+div{
+text-align:center;
+}
